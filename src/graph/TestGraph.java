@@ -1,3 +1,5 @@
+package graph;
+
 public class TestGraph implements Graph {
 	
 	Vertex[] vs;

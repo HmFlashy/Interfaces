@@ -1,3 +1,5 @@
+package graph;
+
 interface Graph {
 	void addVertex(Vertex v);
 	void addUndirected(Vertex v1, Vertex v2);

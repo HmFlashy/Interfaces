@@ -1,8 +1,8 @@
-
+package graph;
 /**
 * The class that define a directed edge
 */
-class DirectedEdge implements Edge {
+class DirectedEdge extends Edge {
 	
 	private boolean direction;
 
